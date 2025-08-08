@@ -1,5 +1,5 @@
 # ARKs and N2T Roadmap
-This is the central hub for tracking work and providing feedback on ARKs and N2T development efforts at UC3. To make sure your feedback is considered, please contribute via the [methods described below](#how-to-contribute).
+This is the public hub for tracking work and providing feedback on ARKs and N2T development efforts at UC3. To make sure your feedback is considered, please contribute via the [methods described below](#how-to-contribute).
 
 # How to follow the roadmap and development process
 Information about ARKs and N2T roadmap and development work (active, planned, or completed) is tracked on the following project board:
@@ -9,10 +9,10 @@ Information about ARKs and N2T roadmap and development work (active, planned, or
 # How to contribute
 
 ## Feature requests
-If you have suggestions for new features for ARKs, NAAN curation or N2T, please open an issue in this repository using the [Feature request template](https://github.com/ror-community/arks-n2t-roadmap/issues/new?assignees=&labels=feature&template=feature_request.md&title=%5BFEATURE%5D).
+If you have suggestions for new features for ARKs, NAAN curation or N2T, please open an issue in this repository using the [Feature request template](https://github.com/CDLUC3/arks-n2t-roadmap/issues/new?template=feature_request.md).
 
 ## Bug reports
-If you find a problem with the ARKs, ARK curation or N2T, please open an issue using the [Bug report template](https://github.com/ror-community/arks-n2t-roadmap/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+). 
+If you find a problem with the ARKs, ARK curation or N2T, please open an issue using the [Bug report template](https://github.com/CDLUC3/arks-n2t-roadmap/issues/new?template=bug_report.md). 
 
 *Note: Please do not open a bug report to request changes to NAAN record data, such as adding new NAAN records or changing data on existing records! NAAN record data changes are managed through a community-based curation process. To request changes to NAAN record data, see [NAAN Curation requests](#curation-requests) below.*
 
